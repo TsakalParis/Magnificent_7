@@ -8,9 +8,9 @@ This project analyzes the performance of a portfolio based on the top 7 stocks f
 - **Comparison with SPY & QQQ ETFs**  
 
 ## 🔧 How to Run the Code  
-1. Clone this repository:   
+1. Clone this repository: https://github.com/TsakalParis/Magnificent_7.git
 2. Install dependencies: pip install -r requirements.txt  
-3. Run the main script: python backtest.py
+3. Run the main script: mag_7_bias.ipynb
    
 
 
